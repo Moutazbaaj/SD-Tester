@@ -2,8 +2,7 @@
 A professional-grade SD card testing tool built with ESP32, featuring OLED display, battery monitoring, and comprehensive card diagnostics.
 
 
-![Alt Text](SD-Tester/IMG/Screenshot 2025-05-03 at 23.23.37.png)
-
+![Alt Text]("SD-Tester/IMG/Screenshot 2025-05-03 at 23.23.37.png")
 
 
 ## Features
