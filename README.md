@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# Arduino_Projects
-Open source random Arduino  projects
-
-using Processing and C++
-
-enjoy :)
-=======
-# ESP32 SD Card Tester with OLED Interface
-
 
 A professional-grade SD card testing tool built with ESP32, featuring OLED display, battery monitoring, and comprehensive card diagnostics.
 
