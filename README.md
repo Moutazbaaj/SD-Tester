@@ -20,6 +20,10 @@ A professional-grade SD card testing tool built with ESP32, featuring OLED displ
   - Audible feedback via buzzer
   - Two-button navigation
 
+ Check out the device on YouTube:
+ 
+https://www.youtube.com/shorts/YD2RQvFlCi8
+
 ## Hardware Requirements
 | Component              | Specification                     |
 |------------------------|-----------------------------------|
