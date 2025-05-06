@@ -55,7 +55,6 @@ GPIO5   | CS             |              |
 GPIO23  | MOSI           |              |
 GPIO18  | CLK            |              |
 GPIO19  | MISO           |              |
-        |                |              |
 GPIO21  |                | SDA          |
 GPIO22  |                | SCL          |
 GPIO25  |                |              | Buzzer
