@@ -48,7 +48,7 @@ https://www.youtube.com/shorts/YD2RQvFlCi8
    - `SSD1306Wire` (OLED display)
 
 ### Hardware Connections
-```plaintext
+
 ESP32   | SD Card Module | OLED Display | Other
 --------|----------------|--------------|---------
 GPIO5   | CS             |              |
@@ -103,4 +103,3 @@ False Test Failures	Try different SD card
 License
 
 This project is licensed under the MIT License - see LICENSE for details.
->>>>>>> 9fdc9be366f1a0821cabe1b24d4b01657a544a7c
